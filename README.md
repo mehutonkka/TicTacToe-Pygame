@@ -1,3 +1,3 @@
 # TicTacToe-Pygame
-Traditional TicTacToe game made with pygame\n
+Traditional TicTacToe game made with pygame \n
 No additional files needed
