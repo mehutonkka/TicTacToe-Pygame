@@ -1,2 +1,2 @@
 # TicTacToe-Pygame
-TicTacToe game made with pygame
+Traditional TicTacToe game made with pygame
